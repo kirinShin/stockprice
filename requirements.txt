@@ -1,4 +1,4 @@
 pandas
-yfinance
+yfinance== 0.2.30
 altair
 streamlit== 1.27.0
